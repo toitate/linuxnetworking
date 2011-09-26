@@ -1,0 +1,35 @@
+
+
+Processing MainController#hello (for 127.0.0.1 at 2011-09-21 03:54:25) [GET]
+Rendering main/hello
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/main/hello]
+
+
+Processing MainController#hello (for 127.0.0.1 at 2011-09-21 03:54:37) [GET]
+Rendering main/hello
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main/hello]
+
+
+Processing MainController#hello (for 127.0.0.1 at 2011-09-21 03:54:50) [GET]
+Rendering main/hello
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/main/hello]
+
+
+Processing MainController#bye (for 127.0.0.1 at 2011-09-21 03:55:05) [GET]
+Rendering main/bye
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/main/bye]
+
+
+Processing MainController#bye (for 127.0.0.1 at 2011-09-21 03:56:37) [GET]
+Rendering main/bye
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/main/bye]
+
+
+Processing MainController#hello (for 127.0.0.1 at 2011-09-21 03:56:46) [GET]
+Rendering main/hello
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/main/hello]
+
+
+Processing MainController#hello (for 127.0.0.1 at 2011-09-23 15:50:32) [GET]
+Rendering main/hello
+Completed in 54ms (View: 53, DB: 0) | 200 OK [http://localhost/main/hello]
